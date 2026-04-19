@@ -1,5 +1,3 @@
-gsap.to("body", {backgroundColor: "#222", duration: 2});
-
 // GSAP + ScrollTrigger animations
 gsap.registerPlugin(ScrollTrigger);
 
